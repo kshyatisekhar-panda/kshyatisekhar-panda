@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **JavaScript and Typscript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
+LinkedIn:  https://www.linkedin.com/in/kshyatisekhar-panda-589973145 
+Email: kshyatisekhar.dev@gmail.com
 <p align="left">
 </p>
 
