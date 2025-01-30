@@ -32,3 +32,20 @@ I'm a **seasoned software developer** with **6 years of experience**, specializi
 
 **🚀 Let's build something amazing together!** 💡
 
+## 🎯 Hobbies & Interests
+
+
+
+- **Sports Enthusiast** 🏏⚽ – I love all kinds of sports!  
+
+  - **Cricket Profile:** [CricClubs](https://cricclubs.com/cricketse/viewPlayer.do?playerId=3361996&clubId=8318) | [CricHeroes](https://cricheroes.com/player-profile/3079903/kshyatisekhar-panda/stats)  
+
+  - **Football** is another page of my life.  
+
+
+
+- **📸 Photography & Travel** – Capturing moments and exploring new places is something I truly enjoy.  
+
+  - **YouTube Channel:** [@imhumanpanda_](https://www.youtube.com/@imhumanpanda_)
+
+
