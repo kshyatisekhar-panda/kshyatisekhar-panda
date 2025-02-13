@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **seasoned software developer** with **6 years of experience**, specializing in both **backend and frontend development**. I'm passionate about exploring new technologies, but the **sports domain** truly captures my heart. I love building applications that merge my **technical expertise** with my **passion for sports**, whether it's enhancing fan experiences or driving innovation in **sports analytics**.
+I'm a **seasoned software developer** with **7 years of experience**, specializing in both **backend and frontend development**. I'm passionate about exploring new technologies, but the **sports domain** truly captures my heart. I love building applications that merge my **technical expertise** with my **passion for sports**, whether it's enhancing fan experiences or driving innovation in **sports analytics**.
 
 - 🔭 **Currently working on:** Dart Scoring Application
 - 🌱 **Currently learning:** Next.js and Progressive Web Apps (PWAs), particularly with the Wakelock API.
